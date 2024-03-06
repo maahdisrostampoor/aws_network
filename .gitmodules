@@ -1,4 +1,5 @@
 [submodule "aws_network"] 
+  branch = master
   path =  aws_network
   url = https://github.com/maahdisrostampoor/aws_network.git
  
