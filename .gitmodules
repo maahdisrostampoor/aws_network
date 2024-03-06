@@ -1,0 +1,3 @@
+[submodule "aws_network"] 
+  path =  /home/maahdis/Code/Terraform/Lab-4/aws_network
+  url = github.com/maahdisrostampoor/aws_network.git
